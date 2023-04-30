@@ -1,5 +1,9 @@
-|[logo](https://github.com/mdasifshaikh/mdasifshaikh/blob/main/github%20banner.png)
 ### Hi there 👋
+I'm Mahammad Asif Shaikh from India, I'm graduate in B.E (Electronics and Communication Engineering) from VTU University and I have an in depth knowledge of Linux (Redhat), AWS, Devops, Python, Computer Networking, C programming, Embedded system, HTML, Semiconductor Devices, Electronics Circuits.
+
+
+
+
 <!--
 **mdasifshaikh/mdasifshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
