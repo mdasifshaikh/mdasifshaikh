@@ -1,5 +1,5 @@
 
-<img src="https://github.com/mdasifshaikh/mdasifshaikh/blob/main/github%20banner.png" width="2700" height="340"/> </a> </p>
+<img src="https://github.com/mdasifshaikh/mdasifshaikh/blob/main/github%20banner.png" width="2400" height="340"/> </a> </p>
 
 ### Hi there 👋
 
