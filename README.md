@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm Mahammad Asif Shaikh from India, I'm graduate in B.E (Electronics and Communication Engineering) from VTU University and I have an in depth knowledge of Linux (Redhat), AWS, Devops, Python, Computer Networking, C programming, Embedded system, HTML, Semiconductor Devices, Electronics Circuits.
+I'm Mahammad Asif Shaikh from India, I'm graduate in B.E (Electronics and Communication Engineering) from VTU University and I have an in depth knowledge of Linux (Redhat), Windows, Networking, Server, Technical support, Ticketing Tools, AWS, Devops, Python, Computer Networking, C programming, Embedded system, HTML, Semiconductor Devices, Electronics Circuits.
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MahammadAsifShaikh&count_private=true&theme=tokyonight&showicons=true)]()
